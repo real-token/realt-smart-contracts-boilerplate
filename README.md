@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build pass](https://github.com/real-token/realt-smart-contracts-boilerplate/actions/workflows/node.js.yml/badge.svg)](https://github.com/real-token/realt-smart-contracts-boilerplate/actions/workflows/node.js.yml)
+[![Build pass](https://github.com/real-token/realt-smart-contracts-boilerplate/actions/workflows/test.yml/badge.svg)](https://github.com/real-token/realt-smart-contracts-boilerplate/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/real-token/realt-smart-contracts-boilerplate/branch/master/graph/badge.svg?token=DRFNLw506C)](https://codecov.io/gh/real-token/realt-smart-contracts-boilerplate)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
